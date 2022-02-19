@@ -1,0 +1,123 @@
+body{
+    margin:0;
+    padding:0;
+}
+#first_part{
+    background-image: url(./img/Bliss-1.jpg);
+    height:100vh;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-top: -10px;
+    background-attachment: fixed;
+    padding-top:50px;
+    padding-right:50px;
+}
+#first_part h1{
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    background-color:black;
+    color:white;
+    height:60px;
+    width:350px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:5px;
+    font-family:FreeMono, monospace;
+    text-transform: uppercase;
+    font-weight:lighter;
+    
+
+}
+#second_part{
+    background-color:white;
+    width:100%;
+
+}
+#second_part h2{
+text-align:center;
+padding-top:20px;
+}
+
+#second_part p {
+    text-align:center;
+    padding-bottom:40px;
+   
+}
+#third_part{
+    background-image: url(./img/Bliss-2.jpg);
+    height:400px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-top: -10px;
+    background-attachment: fixed;
+    display:flex;
+    justify-content:center;
+   align-items: center;
+   padding-top:50px;
+   padding-right:50px;
+}
+#third_part h1{
+   
+color:white;
+background-color:black;
+height:60px;
+width:350px;
+display:flex;
+justify-content:center;
+align-items:center;
+border-radius:5px;
+font-family:FreeMono, monospace;
+    text-transform: uppercase;
+    font-weight:lighter;
+
+}
+#fourth_part{
+    background-color:rgb(68, 82, 104);
+    width:100%;
+    /* margin-top: -19.5px; */
+    height:150px;
+    
+}
+#fourth_part h2{
+    text-align:center;
+    margin: 0;
+    padding-top: 20px;
+   
+}
+#fourth_part p{
+    text-align: center;
+    padding-bottom:35px;
+}
+#fifth_part{
+    background-image: url(./img/Bliss-3.jpg);
+    height:500px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-top: -10px;
+    background-attachment: fixed;
+    display:flex;
+    justify-content:center;
+   align-items: center;
+   padding-top:50px;
+   padding-right:50px;
+}
+#fifth_part h1{
+    color:white;
+background-color:black;
+height:60px;
+width:350px;
+display:flex;
+justify-content:center;
+align-items:center;
+border-radius:5px;
+font-family:FreeMono, monospace;
+    text-transform: uppercase;
+    font-weight:lighter;
+}
